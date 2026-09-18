@@ -1,4 +1,4 @@
-<img src="https://github.com/veladent-tech/.github/blob/main/profile/img/logomark.png" width="200px">
+<img src="https://github.com/veladent-tech/.github/blob/main/profile/img/logomark.png" width="48px">
 
 # [.github](https://github.com/veladent-tech/.github)
 
